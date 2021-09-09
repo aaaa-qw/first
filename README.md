@@ -5,6 +5,6 @@ Alt-H1
 Alt-H2
 ------
 
-[MyLog](https://github.com/aaaa-qw/first/blob/main/TXT/coba.txt?plain=1)
+[MyLog](coba.txt)
 
 [Page](https://aaaa-qw.github.io/first/)
