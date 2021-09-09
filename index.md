@@ -1,3 +1,3 @@
 # Heading
-[GITHUB] (https://github.com/aaaa-qw)
+[GITHUB](https://github.com/aaaa-qw)
 Hello
