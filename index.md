@@ -1,4 +1,4 @@
-[**HOME**]() | [**LINKS**](LINKS) | [**LOG**][3] | [**GitHub**][4]
+[**HOME**]() | [**LINKS**](/LINKS/) | [**LOG**][3] | [**GitHub**][4]
 
 # agc
 
