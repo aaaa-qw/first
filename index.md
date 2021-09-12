@@ -1,4 +1,4 @@
-[**HOME**](https://aaaa-qw.github.io/first/) | [**LINKS**](/LINKS/) | [**LOG**](/TXT/coba.txt) | [**GitHub**][4]
+[**HOME**](https://aaaa-qw.github.io/first/) | [**LINKS**](/LINKS/) | [**LOG**](https://aaaa-qw.github.io/first/TXT/coba.txt) | [**GitHub**][4]
 
 # agc
 
